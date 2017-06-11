@@ -43,3 +43,21 @@
 [submodule "Cryptography_and_Security_Protocols"]
 	path = Cryptography_and_Security_Protocols
 	url = https://github.com/rodamber/cps
+[submodule "Advanced_Programming"]
+	path = Advanced_Programming
+	url = https://github.com/JoaoMVR/PAva
+[submodule "Computer_Graphics"]
+	path = Computer_Graphics
+	url = https://github.com/nuno-silva/computer-graphics-wag
+[submodule "Foundations_of_Programming"]
+	path = Foundations_of_Programming
+	url = https://github.com/rodamber/fp
+[submodule "Introduction_to_Computer_Architecture"]
+	path = Introduction_to_Computer_Architecture
+	url = https://github.com/rodamber/iac
+[submodule "Introduction"]
+	path = Introduction_to_Algorithms_and_Data_Structures
+	url = https://github.com/rodamber/iaed
+[submodule "Object_Oriented_Programming"]
+	path = Object_Oriented_Programming
+	url = https://github.com/rodamber/oop

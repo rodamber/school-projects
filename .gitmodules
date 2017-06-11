@@ -1,0 +1,45 @@
+[submodule "Systems_Analysis_and_Modeling"]
+	path = Systems_Analysis_and_Modeling
+	url = https://github.com/rodamber/ams
+[submodule "Operating_Systems"]
+	path = Operating_Systems
+	url = https://github.com/rodamber/os
+[submodule "Computer_Networks"]
+	path = Computer_Networks
+	url = https://github.com/rodamber/cn
+[submodule "Artificial_Intelligence"]
+	path = Artificial_Intelligence
+	url = https://github.com/rodamber/ai
+[submodule "Complex_Networks"]
+	path = Complex_Networks
+	url = https://github.com/rodamber/rc
+[submodule "Databases"]
+	path = Databases
+	url = https://github.com/rodamber/db
+[submodule "Software_Specification"]
+	path = Software_Specification
+	url = https://github.com/rodamber/ss
+[submodule "Algorithms_for_Computational_Logic"]
+	path = Algorithms_for_Computational_Logic
+	url = https://github.com/rodamber/alc
+[submodule "Distributed_Systems"]
+	path = Distributed_Systems
+	url = https://github.com/rodamber/ds
+[submodule "Software_Engineering"]
+	path = Software_Engineering
+	url = https://github.com/rodamber/es
+[submodule "First_Project"]
+	path = First_Project
+	url = https://github.com/rodamber/asa-01
+[submodule "Analysis_and_Synthesis_of_Algorithms/First_Project"]
+	path = Analysis_and_Synthesis_of_Algorithms/First_Project
+	url = https://github.com/rodamber/asa-01
+[submodule "Analysis_and_Synthesis_of_Algorithms/Second_Project"]
+	path = Analysis_and_Synthesis_of_Algorithms/Second_Project
+	url = https://github.com/rodamber/asa-02
+[submodule "Advanced_Algorithms"]
+	path = Advanced_Algorithms
+	url = https://github.com/rodamber/aava
+[submodule "Cryptography_and_Security_Protocols"]
+	path = Cryptography_and_Security_Protocols
+	url = https://github.com/rodamber/cps
